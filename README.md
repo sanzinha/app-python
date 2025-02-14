@@ -1,1 +1,2 @@
-# app-python
+Vinicius e Samara
+projeto python
